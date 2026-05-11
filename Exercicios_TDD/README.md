@@ -31,11 +31,13 @@ Siga os passos abaixo para configurar o ambiente e preparar o projeto:
 
 ---
 
-## 🧪 Evidências
+## 📖 Evidências
 
-npm run teste
-[Evidência do Terminal](img/test.png)
+npm run test
+
+<img src="img/test.png"/>
 
 npm run test:cov
-[Evidência do Terminal](img/coverage.png)
+
+<img src="img/coverage.png"/>
 
